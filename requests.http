@@ -1,0 +1,11 @@
+
+#GET http://localhost:8080/scoreboard
+
+POST http://localhost:8080/score/feliipe
+Content-Type: application/json
+
+{
+  "score": 999
+}
+
+
